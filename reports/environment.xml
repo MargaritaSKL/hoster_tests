@@ -1,0 +1,22 @@
+<environment>
+    <parameter>
+        <key>Topic</key>
+        <value>HOSTER.BY</value>
+    </parameter>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>101.0.4951.54</value>
+    </parameter>
+    <parameter>
+        <key>Student</key>
+        <value>Sokol Margarita</value>
+    </parameter>
+        <parameter>
+        <key>python.Version</key>
+        <value>3.10</value>
+    </parameter>
+</environment>
